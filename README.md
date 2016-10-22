@@ -1,2 +1,4 @@
 # hello-world
-My first repository
+
+Hereby the slightly modifications on README document was made.
+Simeon
